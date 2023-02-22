@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Fox News",
+    "title": "Mississippi State's Mike Leach in critical condition as report sheds light on health issue",
+    "description": "Mississippi State University offered an update on football coach Mike Leach following his hospitalization for a \"personal health issue.\"",
+    "url": "https://www.foxnews.com/sports/mississippi-states-mike-leach-critical-condition-report-sheds-light-health-issue",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Mike-Leach7.jpg",
+    "publishedAt": "2022-12-12T17:52:25.0588108Z",
+    "content": "Mississippi State head coach Mike Leach was in critical condition on Monday after the school announced he was hospitalized with a \"personal health issue.\"\r\nUniversity of Mississippi Medical Center (U… [+3861 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": null,
+    "title": "Mississippi State football coach Mike Leach remains in hospital, in critical condition",
+    "description": "MSU said Sunday that Mike Leach suffered a medical incident at his home and was taken to a hospital. As of Monday, he remained in critical condition.",
+    "url": "https://www.usatoday.com/story/sports/ncaaf/sec/2022/12/12/mike-leach-health-update-mississippi-state-football-coach/10882426002/",
+    "urlToImage": "https://www.gannett-cdn.com/-mm-/765278776638e84b5ea49e96d2c1bd825c12e87f/c=0-298-5708-3509/local/-/media/2022/08/26/USATODAY/usatsports/f8820dec20ac424aad440456827cd2b0.jpg?auto=webp&format=pjpg&width=1200",
+    "publishedAt": "2022-12-12T17:23:56+00:00",
+    "content": "One day after he was hospitalized for a \"personal health issue,\" Mississippi State football coach Mike Leach remains in the hospital and is in critical condition, the university said Monday.\r\n\"Mike's… [+1278 chars]"
+    },
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": null,
+    "title": "Mississippi State football coach Mike Leach still in critical condition",
+    "description": "Mississippi State coach Mike Leach remains in critical condition after being hospitalized Sunday with what has been called a \"personal health issue.\"",
+    "url": "http://espn.go.com/college-football/story/_/id/35238774/mississippi-state-football-coach-mike-leach-critical-condition",
+    "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0110%2Fr650724_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-12-12T16:57:00Z",
+    "content": "Mississippi State coach Mike Leach remains hospitalized and in critical condition, the university said in a statement Monday morning. Leach suffered what was called on Sunday a \"personal health issue… [+568 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-sports",
+    "name": "Fox Sports"
+    },
+    "author": null,
+    "title": "Mississippi State coach Mike Leach hospitalized in 'critical condition'",
+    "description": "Mississippi State football coach Mike Leach was hospitalized in critical condition Monday, the day after he was airlifted to a medical facility.",
+    "url": "http://www.foxsports.com/stories/college-football/mississippi-state-coach-mike-leach-hospitalized-in-critical-condition",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/1211_leach_horiz.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-12T16:50:15Z",
+    "content": "Mississippi State coach Mike Leach was hospitalized in critical condition Monday, the day after what the university called \"a personal health issue\" at his home in Starkville forced him to be airlift… [+1762 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "David Child, Usaid Siddiqui",
+    "title": "Can history-makers Morocco win the World Cup?",
+    "description": "Fairytale run to the semi-finals has seen the Atlas Lions create footballing history but now France await.",
+    "url": "http://www.aljazeera.com/sports/2022/12/12/can-morocco-win-the-world-cup",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/12/AP22344641424480.jpg?resize=1920%2C1440",
+    "publishedAt": "2022-12-12T16:12:32Z",
+    "content": "History-makers Morocco are two wins away from lifting a football World Cup trophy.\r\nThe team is yet to be beaten at this years tournament and has conceded just once an own-goal against Canada in the … [+5735 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-sports",
+    "name": "Fox Sports"
+    },
+    "author": "Bryan Fischer",
+    "title": "This college football bowl season will be the last of its kind",
+    "description": "The transfer portal and NIL, plus the looming expansion of the College Football Playoff, have the postseason primed for a hefty reboot.",
+    "url": "http://www.foxsports.com/stories/college-football/this-college-football-bowl-season-will-be-the-last-of-its-kind",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/12/1408/814/12.11.22_CFB-State-of-the-Game_16x9.jpg?ve=1&tl=1",
+    "publishedAt": "2022-12-12T15:46:00Z",
+    "content": "Its a busy time on the college football calendar.\r\nThe transfer portal is open and filled with more than 1,000 players. The early signing period for high school recruits is right around the corner. T… [+12445 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "World Cup performance review not to be made public",
+    "description": "A review into the England's performance at the recent Rugby World Cup will not be made public by the Rugby Football Union.",
+    "url": "http://www.bbc.co.uk/sport/rugby-union/63942309",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/15F83/production/_127978998_gettyimages-1440917927.jpg",
+    "publishedAt": "2022-12-12T14:52:29.0075813Z",
+    "content": "Simon Middleton has won five Six Nations titles with England\r\nA review into England's performance at the recent Rugby World Cup will not be made public by the Rugby Football Union. \r\nEngland's women … [+1054 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-sport",
+    "name": "BBC Sport"
+    },
+    "author": null,
+    "title": "Sutton's World Cup semi-final predictions",
+    "description": "BBC Sport's football expert Chris Sutton predicts the scores for the two World Cup semi-finals in Qatar.",
+    "url": "http://www.bbc.co.uk/sport/football/63927739",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/3F1D/production/_127675161_chrissutton'spredictions.jpg",
+    "publishedAt": "2022-12-12T11:52:23.3513569Z",
+    "content": "<table><tr><th>Fifa World Cup</th></tr>\r\n<tr><td>Host nation: Qatar Dates: 20 November-18 December Coverage: Live on BBC TV, BBC iPlayer, BBC Radio 5 Live, BBC Sounds and the BBC Sport website and ap… [+6282 chars]"
+    },
+    {
+    "source": {
+    "id": "espn-cric-info",
+    "name": "ESPN Cric Info"
+    },
+    "author": null,
+    "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+    "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+    "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+    "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+    "publishedAt": "2020-04-27T07:20:43Z",
+    "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    },
+    {
+    "source": {
+    "id": "le-monde",
+    "name": "Le Monde"
+    },
+    "author": "Pierre Trouvé",
+    "title": "Vidéo. Coupe du monde 2022 : pourquoi le football est-il un sport si imprévisible ?",
+    "description": "Vidéo - Le faible nombre de buts marqués durant un match permet aux petites équipes de renverser plus facilement les favoris.",
+    "url": "https://www.lemonde.fr/sport/video/2019/06/07/coupe-du-monde-2019-pourquoi-le-football-est-il-un-sport-si-imprevisible_5472735_3242.html",
+    "urlToImage": "https://img.lemde.fr/2021/06/18/2/27/1517/1011/1440/960/60/0/fb5b7e0_494039165-459e206-cq4et4k6qkkjxrsi4stzzcoc.jpg",
+    "publishedAt": "2019-06-07T08:27:02Z",
+    "content": "Cette vidéo a été publiée pour le mondial de 2018. La Coupe du monde 2022 est loccasion de revenir sur les origines de limprévisibilité du football.\r\nAu football, de petites équipes réussissent régul… [+746 chars]"
+    }
+    ]
+    }
